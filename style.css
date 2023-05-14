@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+* {
+    font-family: 'Bruno Ace SC', cursive;
+    color: black;
+}
+
+.titulo-header {
+    color: black;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    background-color: rgb(148, 147, 147);
+}
+
+.primeira-tabela {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputs {
+    text-align: center;
+}
+
+.botao-adicionar {
+    text-align: center;
+}
+
+#botao {
+    width: 15%;
+    background-color: #ff5500;
+    color: white;
+}
+
+#botao:hover {
+    background-color: #fc9663;
+}
+
+.titulo-main {
+    color: black;
+    text-align: center;
+}
+
+.centralize{
+    text-align: center;
+}
+
+.segunda-tabela {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.botao-submit {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-color: #ff5500;
+    color: white;
+}
+
+.botao-submit:hover {
+    background-color: #fc9663;
+}
+
+.vaiLa{
+    color: #68f19d;
+    font-weight: bold;
+}
+
+.negado{
+    color: #e96152;
+    font-weight: bold;
+}
